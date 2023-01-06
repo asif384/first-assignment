@@ -1,0 +1,61 @@
+/* CSS Reset */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#home{
+    background-image:url('../images/banner/banner1.png'); 
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:100%;
+    padding-bottom: 170px;
+    
+}
+
+#home-title{
+    font-size:50px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 35px;
+}
+
+.h-primary{
+    text-align: right;
+    margin-right: 100px;
+}
+
+.btn {
+    padding: 15px 17px;
+    border: none;
+    background-color: #ff5722;
+    color: white;
+    /* margin-left: 937px; */
+    margin-top: 20px;
+    font-size: 15px;
+    border-radius: 5px;
+
+}
+#button{
+    margin-right: 100px;
+    text-align: right;
+}
+
+#failure-container{
+    background-image:url('../images/person.png');
+    background-repeat: no-repeat;
+    background-position:center left;
+    /* background-size:100%; */
+    margin-top:50px;
+    padding-top: 700px;
+}
+
+#failure-title{
+
+
+}
+
+#failure-subtitle{
+
+}
