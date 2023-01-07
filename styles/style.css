@@ -11,19 +11,18 @@
     background-repeat: no-repeat;
     background-position:center;
     background-size:100%;
-    padding-bottom: 362px;
-    height: 100px;
+    padding-bottom: 172px;
     height:397px ;
     
 }
 #header-body{
     margin: 0px;
-    padding:158px 36px;
+    padding:83px 36px;
 
 }
 
 #header-title{
-    font-size:60px;
+    font-size:54px;
     font-family: 'Poppins', sans-serif;
     padding-top: 35px;
 }
@@ -31,10 +30,11 @@
 .h-primary{
     text-align: right;
     margin-right: 100px;
+    font-size: 11px;
 }
 #p-primary{
     text-align: right; 
-    padding-top: 27px;
+    padding-top: 12px;
 }
 
 .btn {
@@ -42,13 +42,31 @@
     border: none;
     background-color: #ff5722;
     color: white;
-    margin-top: 20px;
-    font-size: 23px;
+    margin-top: 65px;
+    font-size: 16px;
     border-radius: 5px;
 
 }
 #button{
-    margin:-125px 140px;
+    margin:-114px 140px;
     text-align:right;
 }
 
+/* Section Container */
+#failure-container{
+    padding:85px;
+    display: flex;
+}
+
+.section-title{
+padding-top: 15px;
+padding-left:70px;
+}
+#section-heading{
+    padding-top:208px;
+    font-size: 32px;
+}
+#section-details{
+    font-size: 12px;
+    font-weight: 200;
+}
