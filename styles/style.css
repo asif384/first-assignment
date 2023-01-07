@@ -113,6 +113,80 @@ display: flex;
     margin: auto;
 }
 
-#gradient-container{
-    margin-top: 15px;
+#gradient-img{
+    background-image: url('../images/watch.png'),url('../images/gradient2.png');
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-blend-mode: lighten;
+    background-position:center;
+    margin: -189px 5px;
+
+}
+
+#watch{
+    height: 206px;
+    width: 954px;
+    display: flex;
+    margin: auto;
+}
+#dot{
+    padding-top: 250px;
+}
+
+#gradient-title{
+    text-align: left;
+    margin-left: 105px;
+    padding-top: 275px;
+    margin-bottom: -43px;
+    color: white;
+    font-size: 32px;
+}
+
+.btn-watch{
+    margin: -15px 106px;
+    margin-top: 68px;
+    border-radius: 6px;
+    border: none;
+    color: #ff5252;
+    font-size: 15px;
+    padding: 12px 18px;}
+    
+footer {
+    background: black;
+    color: white;
+ 
+    justify-content:space-between;
+
+}
+#right-side{
+    text-align: right;
+    margin-right: 97px;
+}
+#logo-img{
+    display: flex;
+    padding-left: 5px;
+    padding-top: 37px;
+    padding-left: 91px;
+}
+#future-container{
+    margin-left: 97px;
+    margin-top: 43px;
+    padding-top: 41px;
+}
+
+#phone-no{
+    color:#777575;
+}
+.logo{
+    padding-left:15px;
+}
+
+#subscribe{
+
+}
+#email{
+
+}
+#btn-subscribe{
+
 }
