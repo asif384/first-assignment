@@ -6,17 +6,24 @@
 }
 
 
-#home{
+#header-container{
     background-image:url('../images/banner/banner1.png'); 
     background-repeat: no-repeat;
     background-position:center;
     background-size:100%;
-    padding-bottom: 170px;
+    padding-bottom: 362px;
+    height: 100px;
+    height:397px ;
     
 }
+#header-body{
+    margin: 0px;
+    padding:158px 36px;
 
-#home-title{
-    font-size:50px;
+}
+
+#header-title{
+    font-size:60px;
     font-family: 'Poppins', sans-serif;
     padding-top: 35px;
 }
@@ -25,37 +32,23 @@
     text-align: right;
     margin-right: 100px;
 }
+#p-primary{
+    text-align: right; 
+    padding-top: 27px;
+}
 
 .btn {
-    padding: 15px 17px;
+    padding: 18px 18px;
     border: none;
     background-color: #ff5722;
     color: white;
-    /* margin-left: 937px; */
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 23px;
     border-radius: 5px;
 
 }
 #button{
-    margin-right: 100px;
-    text-align: right;
+    margin:-125px 140px;
+    text-align:right;
 }
 
-#failure-container{
-    background-image:url('../images/person.png');
-    background-repeat: no-repeat;
-    background-position:center left;
-    /* background-size:100%; */
-    margin-top:50px;
-    padding-top: 700px;
-}
-
-#failure-title{
-
-
-}
-
-#failure-subtitle{
-
-}
