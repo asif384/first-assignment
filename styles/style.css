@@ -83,3 +83,36 @@ padding-left:70px;
 .section-subtitle-text{
     padding-top:7px;
 }
+
+/* my-plan-section */
+
+#my-plan-title{
+font-size: 35px;
+}
+
+#my-plan-container{
+    margin: 34px;
+    text-align: center;;
+}
+
+#my-plan{ 
+display: flex;
+}
+
+.center{
+    text-align: center;
+}
+
+.my-plan-heading{
+    text-align: center;
+}
+.my-plan-box{
+    padding: 14px;
+    margin: 25px;
+    padding: 34px;
+    margin: auto;
+}
+
+#gradient-container{
+    margin-top: 15px;
+}
