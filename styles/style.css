@@ -67,6 +67,19 @@ padding-left:70px;
     font-size: 32px;
 }
 #section-details{
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 200;
+}
+
+.section-subtitle{
+    margin-top: 19px;
+    margin-left: 92px;
+    font-size: 12px;
+    
+}
+#section-control{
+    margin-inline-end:-58px;
+}
+.section-subtitle-text{
+    padding-top:7px;
 }
