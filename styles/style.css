@@ -154,14 +154,9 @@ display: flex;
 footer {
     background: black;
     color: white;
- 
-    justify-content:space-between;
 
 }
-#right-side{
-    text-align: right;
-    margin-right: 97px;
-}
+
 #logo-img{
     display: flex;
     padding-left: 5px;
@@ -181,12 +176,17 @@ footer {
     padding-left:15px;
 }
 
-#subscribe{
-
+.right-side{
+color: black;
 }
-#email{
-
+#future-text{
+    font-size: 11px;
 }
 #btn-subscribe{
-
+    margin-left: 463px;
+    margin-bottom: 8px;
+    padding: 11px 19px;
+    border-radius: 6px;
+    color: #ff6800;
+    font-size: 17px;
 }
